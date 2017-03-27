@@ -114,5 +114,5 @@ $(function(){
         }
     })();
 
-    fartscroll(800);
+    fartscroll();
 });
