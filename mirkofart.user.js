@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       mirkofart
 // @namespace  http://wykop.pl/
-// @version    1.0
+// @version    1.1
 // @description  #podnosimypoziomwykopu
 // @match      http://www.wykop.pl/*
 // @copyright  2017, @Grizwold, https://github.com/theonion
