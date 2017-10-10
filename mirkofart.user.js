@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name       mirkofart
-// @namespace  http://wykop.pl/
+// @namespace  https://wykop.pl/
 // @version    1.1
 // @description  #podnosimypoziomwykopu
-// @match      http://www.wykop.pl/*
+// @match      https://www.wykop.pl/*
 // @copyright  2017, @Grizwold, https://github.com/theonion
 // @updateURL   https://github.com/tomekbielaszewski/fartscroll.js/raw/master/mirkofart.user.js
 // @installURL  https://github.com/tomekbielaszewski/fartscroll.js/raw/master/mirkofart.user.js
